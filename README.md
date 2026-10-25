@@ -59,7 +59,7 @@ A comprehensive **MERN stack** application that helps travelers discover, plan, 
 
 - **GitHub:** [@Nitish-inn](https://github.com/Nitish-inn)
 - **LinkedIn:** [Nitish Gupta](https://www.linkedin.com/in/nitish-gupta-2a623030a)
-- **Email:** [nitishgupta050505@gmail.com](mailto:nitishgupta050505@gmail.com)
+- **Email:** [nitishgupta050505@gmail.com](mailto:nitishguptagkp5@gmail.com)
 
 ---
 
